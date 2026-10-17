@@ -199,7 +199,7 @@ int main(){
             checkFood();
 
         }
-        Sleep(120);
+        Sleep(05);
     }
     clearScreen();
     system("cls");
